@@ -12,7 +12,7 @@ Samples for the new visual effect graph unity 2019.1
 </p>
 
 ## Sample 3 - Burning monkeys 
-Using of Point cache as particules seeds
+Using point cache as particules seeds
 <p align="center">
   <img src="https://i.imgur.com/Tl7obk7.gif" alt="Burning monkeys" width="480"></img>
 </p>
